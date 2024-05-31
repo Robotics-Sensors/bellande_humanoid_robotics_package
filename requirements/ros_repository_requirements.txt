@@ -1,0 +1,6 @@
+https://github.com/Robotics-Sensors/humanoid_robot_intelligence_control_system_module
+https://github.com/Robotics-Sensors/humanoid_robot_intelligence_control_system_messages
+https://github.com/Robotics-Sensors/humanoid_robot_intelligence_control_system_utility
+https://github.com/Robotics-Sensors/humanoid_robot_intelligence_control_system_framework
+https://github.com/Robotics-Sensors/humanoid_robot_intelligence_control_system_tools
+https://github.com/Robotics-Sensors/humanoid_robot_intelligence_control_system_demos

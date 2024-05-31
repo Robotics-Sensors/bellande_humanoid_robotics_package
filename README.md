@@ -7,4 +7,4 @@
 
 ## 📧 Explore the Docker image for the Bellande Robotic Architecture:
 - **ROS1**: [![ROS1 Docker Image](https://img.shields.io/docker/pulls/ronaldsonbellande/bellande_robotic_environment_ros1)](https://hub.docker.com/r/ronaldsonbellande/bellande_robotic_environment_ros1)
-- **ROS2**: [![ROS2 Docker Image](https://img.shields.io/docker/pulls/ronaldsonbellande/bellande_robotic_environment_ros2)]
+- **ROS2**: [![ROS2 Docker Image](https://img.shields.io/docker/pulls/ronaldsonbellande/bellande_robotic_environment_ros2)](https://hub.docker.com/r/ronaldsonbellande/bellande_robotic_environment_ros2)

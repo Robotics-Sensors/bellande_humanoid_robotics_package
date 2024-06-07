@@ -1,8 +1,11 @@
 # ROS/ROS2 {BR&SRI} Bellande Humanoid Robotics Package
 
-## 🤖 Explore Humanoid Robot Intelligence with Us!
-
+## 🤖 Explore Humanoid Robot with Us!
 Welcome to the {BR&SRI} Bellande Humanoid Robot repository! Here, we invite you to delve into the fascinating world of humanoid robotics, showcasing the innovative capabilities of our intelligent control system.
+
+## Humanoid Robotics Control Systems
+- Different system called the Bellande Control Systems(BCS's), visit website for demo's
+
 
 # Check Website All Information And Accessibility
 [![Website](https://img.shields.io/badge/Visit%20our-Website-0099cc?style=for-the-badge)](https://robotics-sensors.github.io)

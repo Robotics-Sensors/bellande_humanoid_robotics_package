@@ -32,6 +32,9 @@ LABEL author=ronaldsonbellande@gmail.com
 LABEL ROS_architecture_github_branchtag=${ROS_ARCHITECTURE_VERSION_GIT_BRANCH}
 LABEL ROS_architecture_github_commit=${ROS_ARCHITECTURE_VERSION_GIT_COMMIT}
 
+# Install git
+RUN apt-get update && apt-get install -y git
+
 # Create local catkin workspace
 RUN mkdir -p $CATKIN_WS/src
 
@@ -39,8 +42,11 @@ RUN mkdir -p $CATKIN_WS/src
 RUN mkdir -p /requirements
 COPY ../requirements/ros_repository_requirements.txt /requirements/ros_repository_requirements.txt
 
-# Clone repositories listed in ros_repository_requirements.txt
-RUN while read -r repo; do git clone "$repo" $CATKIN_WS/src; done < /requirements/ros_repository_requirements.txt
+# Clone repositories listed in ros_repository_requirements.txt into unique subdirectories
+RUN while read -r repo; do \
+  repo_name=$(basename "$repo" .git); \
+  git clone "$repo" "$CATKIN_WS/src/$repo_name"; \
+  done < /requirements/ros_repository_requirements.txt
 
 # Set the working directory for Catkin
 WORKDIR $CATKIN_WS

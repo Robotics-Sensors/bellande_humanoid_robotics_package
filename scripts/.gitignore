@@ -1,6 +1,3 @@
-push.sh
-fix_errors.sh
-repository_recal.sh
 test.sh
 build_docker.sh
 docker_publish.sh

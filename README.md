@@ -5,15 +5,15 @@ Welcome to the {BR&SRI} Bellande Humanoid Robot repository! Here, we invite you 
 
 ## Mobile and ROS Control System
 ## Mobile and ROS Control System
-- [![Bellande's Internal Sensor Mobile iOS API](https://img.shields.io/badge/Bellande's%20Internal%20Sensor%20Mobile%20iOS%20API-Bellande%20API-blue?style=for-the-badge&logo=ros&color=blue)](https://github.com/Application-UI-UX/bellande_internal_sensor_mobile_ios_api)
-- [![Bellande's External Sensor Mobile iOS API](https://img.shields.io/badge/Bellande's%20External%20Sensor%20Mobile%20iOS%20API-Bellande%20API-blue?style=for-the-badge&logo=ros&color=blue)](https://github.com/Application-UI-UX/bellande_external_sensor_mobile_ios_api)
-- [![Bellande's Functionality Mobile iOS API](https://img.shields.io/badge/Bellande's%20Functionality%20Mobile%20iOS%20API-Bellande%20API-blue?style=for-the-badge&logo=ros&color=blue)](https://github.com/Application-UI-UX/bellande_functionality_mobile_ios_api)
-- [![Bellande's Internal Sensor Mobile Android API](https://img.shields.io/badge/Bellande's%20Internal%20Sensor%20Mobile%20Android%20API-Bellande%20API-blue?style=for-the-badge&logo=ros&color=blue)](https://github.com/Application-UI-UX/bellande_internal_sensor_mobile_android_api)
-- [![Bellande's External Sensor Mobile Android API](https://img.shields.io/badge/Bellande's%20External%20Sensor%20Mobile%20Android%20API-Bellande%20API-blue?style=for-the-badge&logo=ros&color=blue)](https://github.com/Application-UI-UX/bellande_external_sensor_mobile_android_api)
-- [![Bellande's Functionality Mobile Android API](https://img.shields.io/badge/Bellande's%20Functionality%20Mobile%20Android%20API-Bellande%20API-blue?style=for-the-badge&logo=ros&color=blue)](https://github.com/Application-UI-UX/bellande_functionality_mobile_android_api)
-- [![Bellande's Internal Sensor Web API](https://img.shields.io/badge/Bellande's%20Internal%20Sensor%20Web%20API-Bellande%20API-blue?style=for-the-badge&logo=ros&color=blue)](https://github.com/Application-UI-UX/bellande_internal_sensor_web_api)
-- [![Bellande's External Sensor Web API](https://img.shields.io/badge/Bellande's%20External%20Sensor%20Web%20API-Bellande%20API-blue?style=for-the-badge&logo=ros&color=blue)](https://github.com/Application-UI-UX/bellande_external_sensor_web_api)
-- [![Bellande's Functionality Web API](https://img.shields.io/badge/Bellande's%20Functionality%20Web%20API-Bellande%20API-blue?style=for-the-badge&logo=ros&color=blue)](https://github.com/Application-UI-UX/bellande_functionality_web_api)
+- [![Bellande's Internal Sensor Mobile iOS API](https://img.shields.io/badge/Bellande's%20Internal%20Sensor%20Mobile%20iOS%20API-Bellande%20API-blue?style=for-the-badge&logo=swift&color=blue)](https://github.com/Application-UI-UX/bellande_internal_sensor_mobile_ios_api)
+- [![Bellande's External Sensor Mobile iOS API](https://img.shields.io/badge/Bellande's%20External%20Sensor%20Mobile%20iOS%20API-Bellande%20API-blue?style=for-the-badge&logo=swift&color=blue)](https://github.com/Application-UI-UX/bellande_external_sensor_mobile_ios_api)
+- [![Bellande's Functionality Mobile iOS API](https://img.shields.io/badge/Bellande's%20Functionality%20Mobile%20iOS%20API-Bellande%20API-blue?style=for-the-badge&logo=swift&color=blue)](https://github.com/Application-UI-UX/bellande_functionality_mobile_ios_api)
+- [![Bellande's Internal Sensor Mobile Android API](https://img.shields.io/badge/Bellande's%20Internal%20Sensor%20Mobile%20Android%20API-Bellande%20API-blue?style=for-the-badge&logo=android&color=blue)](https://github.com/Application-UI-UX/bellande_internal_sensor_mobile_android_api)
+- [![Bellande's External Sensor Mobile Android API](https://img.shields.io/badge/Bellande's%20External%20Sensor%20Mobile%20Android%20API-Bellande%20API-blue?style=for-the-badge&logo=android&color=blue)](https://github.com/Application-UI-UX/bellande_external_sensor_mobile_android_api)
+- [![Bellande's Functionality Mobile Android API](https://img.shields.io/badge/Bellande's%20Functionality%20Mobile%20Android%20API-Bellande%20API-blue?style=for-the-badge&logo=android&color=blue)](https://github.com/Application-UI-UX/bellande_functionality_mobile_android_api)
+- [![Bellande's Internal Sensor Web API](https://img.shields.io/badge/Bellande's%20Internal%20Sensor%20Web%20API-Bellande%20API-blue?style=for-the-badge&logo=javascript&color=blue)](https://github.com/Application-UI-UX/bellande_internal_sensor_web_api)
+- [![Bellande's External Sensor Web API](https://img.shields.io/badge/Bellande's%20External%20Sensor%20Web%20API-Bellande%20API-blue?style=for-the-badge&logo=javascript&color=blue)](https://github.com/Application-UI-UX/bellande_external_sensor_web_api)
+- [![Bellande's Functionality Web API](https://img.shields.io/badge/Bellande's%20Functionality%20Web%20API-Bellande%20API-blue?style=for-the-badge&logo=javascript&color=blue)](https://github.com/Application-UI-UX/bellande_functionality_web_api)
 
 
 ## Humanoid Robotics Control Systems

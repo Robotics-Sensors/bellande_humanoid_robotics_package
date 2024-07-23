@@ -4,7 +4,6 @@
 Welcome to the {BR&SRI} Bellande Humanoid Robot repository! Here, we invite you to delve into the fascinating world of humanoid robotics, showcasing the innovative capabilities of our intelligent control system.
 
 ## Mobile and ROS Control System
-## Mobile and ROS Control System
 - [![Bellande's Internal Sensor Mobile iOS API](https://img.shields.io/badge/Bellande's%20Internal%20Sensor%20Mobile%20iOS%20API-Bellande%20API-blue?style=for-the-badge&logo=swift&color=blue)](https://github.com/Application-UI-UX/bellande_internal_sensor_mobile_ios_api)
 - [![Bellande's External Sensor Mobile iOS API](https://img.shields.io/badge/Bellande's%20External%20Sensor%20Mobile%20iOS%20API-Bellande%20API-blue?style=for-the-badge&logo=swift&color=blue)](https://github.com/Application-UI-UX/bellande_external_sensor_mobile_ios_api)
 - [![Bellande's Functionality Mobile iOS API](https://img.shields.io/badge/Bellande's%20Functionality%20Mobile%20iOS%20API-Bellande%20API-blue?style=for-the-badge&logo=swift&color=blue)](https://github.com/Application-UI-UX/bellande_functionality_mobile_ios_api)

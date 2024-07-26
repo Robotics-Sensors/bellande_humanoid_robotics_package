@@ -3,4 +3,4 @@ https://github.com/Robotics-Sensors/bellande_humanoid_robot_intelligence_control
 https://github.com/Robotics-Sensors/bellande_humanoid_robot_intelligence_control_system_utility
 https://github.com/Robotics-Sensors/bellande_humanoid_robot_intelligence_control_system_framework
 https://github.com/Robotics-Sensors/bellande_humanoid_robot_intelligence_control_system_tools
-https://github.com/Robotics-Sensors/bellande_humanoid_robot_intelligence_control_system_demos
+https://github.com/Robotics-Sensors/bellande_humanoid_robot_intelligence_control_system_architecture
